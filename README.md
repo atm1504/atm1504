@@ -10,6 +10,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F97F7&center=true&vCenter=true&width=435&lines=Engineering+Manager+%40+C1X;Teaching+Assistant+%40+Scaler;GSoC+2019+Alumnus;IIT+Patna+Graduate;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</div>
+
 ## 🏆 GitHub Profile Trophy
 
 <div align="center">
@@ -21,7 +25,7 @@
 ```typescript
 class TechLeader {
     readonly name = "Amartya Mondal";
-    readonly location = "Bangalore, India 🌆";
+    readonly location = "Durgaopur, India 🌆";
     readonly education = {
         degree: "B.Tech in Mechanical Engineering",
         institution: "IIT Patna",
@@ -30,12 +34,13 @@ class TechLeader {
     
     readonly currentRoles = {
         primary: "Engineering Manager @ C1X AdTech",
-        teaching: "Part-Time Instructor @ Scaler Academy",
+        teaching: "Teaching Instructor @ Scaler Academy",
         focus: "Cross-device Ad Rendering & Customer Data Management"
     };
     
     readonly expertise = [
         "Team Leadership",
+        "Management",
         "System Design",
         "Full Stack Development",
         "Mobile Development",
@@ -44,15 +49,30 @@ class TechLeader {
 }
 ```
 
-## 📊 GitHub Stats & Activity
+## 📊 Development Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atm1504&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atm1504&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atm1504&theme=tokyo-night" alt="Activity Graph" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=atm1504&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=atm1504&theme=tokyonight" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=atm1504&theme=tokyo-night" alt="Activity Graph" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <h3>📈 Weekly Development Breakdown</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atm1504&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🏢 Professional Experience
@@ -112,17 +132,11 @@ class TechLeader {
 
 </div>
 
-## 📈 Weekly Development Breakdown
+## 🎯 GitHub Contribution Calendar
 
-```text
-Python        ████████████████████░░░░░   70.0%
-JavaScript    █████████████░░░░░░░░░░░░   50.0%
-Java          ██████████░░░░░░░░░░░░░░░   40.0%
-Kotlin        ████████░░░░░░░░░░░░░░░░░   35.0%
-Dart          ██████░░░░░░░░░░░░░░░░░░░   25.0%
-```
-
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atm1504&theme=github-compact" alt="GitHub Contribution Calendar"/>
+</div>
 
 ## 🤝 Connect With Me
 
