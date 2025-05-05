@@ -1,7 +1,7 @@
 # <div align="center">🚀 Amartya Mondal</div>
 
 <div align="center">
-  <a href="https://atm1504.in"><img src="https://img.shields.io/badge/Portfolio-atm1504.in-4CAF50?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://atm1504-dev.web.app"><img src="https://img.shields.io/badge/Portfolio-atm1504-dev.web.app-4CAF50?style=for-the-badge" alt="Portfolio"/></a>
   <a href="mailto:atm1504.in@gmail.com"><img src="https://img.shields.io/badge/Email-atm1504.in@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=atm1504&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
@@ -24,28 +24,28 @@
 
 ```typescript
 class TechLeader {
-    readonly name = "Amartya Mondal";
-    readonly location = "Durgaopur, India 🌆";
-    readonly education = {
-        degree: "B.Tech in Mechanical Engineering",
-        institution: "IIT Patna",
-        batch: "2018-2022"
-    };
-    
-    readonly currentRoles = {
-        primary: "Engineering Manager @ C1X AdTech",
-        teaching: "Teaching Instructor @ Scaler Academy",
-        focus: "Cross-device Ad Rendering & Customer Data Management"
-    };
-    
-    readonly expertise = [
-        "Team Leadership",
-        "Management",
-        "System Design",
-        "Full Stack Development",
-        "Mobile Development",
-        "Cloud Architecture"
-    ];
+  readonly name = "Amartya Mondal";
+  readonly location = "Where code meets creativity 🌆";
+  readonly education = {
+    degree: "B.Tech in Mechanical Engineering",
+    institution: "IIT Patna",
+    batch: "2018-2022",
+  };
+
+  readonly currentRoles = {
+    primary: "Engineering Manager @ C1X AdTech",
+    teaching: "Teaching Instructor @ Scaler Academy",
+    focus: "Cross-device Ad Rendering & Customer Data Management",
+  };
+
+  readonly expertise = [
+    "Team Leadership",
+    "Management",
+    "System Design",
+    "Full Stack Development",
+    "Mobile Development",
+    "Cloud Architecture",
+  ];
 }
 ```
 
@@ -78,6 +78,7 @@ class TechLeader {
 ## 🏢 Professional Experience
 
 ### C1X ADTECH | Engineering Manager & Team Lead
+
 <img align="right" src="https://img.shields.io/badge/May%202021-Present-0D96F6?style=for-the-badge"/>
 
 - 🎯 Leading DOOH (Digital Out Of Home) project for cross-device ad rendering
@@ -86,6 +87,7 @@ class TechLeader {
 - 📧 Spearheading Email & Push Promotion initiatives
 
 ### SCALER ACADEMY | Part-Time Instructor
+
 <img align="right" src="https://img.shields.io/badge/Aug%202022-Present-00C853?style=for-the-badge"/>
 
 - 👨‍🏫 Teaching Data Structures & Algorithms
@@ -93,6 +95,7 @@ class TechLeader {
 - 📚 Creating comprehensive learning materials
 
 ### Previous Experiences
+
 - 🎓 **Google Summer of Code** @ FOSSASIA (2019)
 - 💼 **SDE Intern** @ Success Numbers LLC
 - 🏆 **Google Code-In Mentor** (2019)
@@ -103,6 +106,7 @@ class TechLeader {
 <div align="center">
 
 ### Backend Development
+
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -111,12 +115,14 @@ class TechLeader {
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Mobile Development
+
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frontend & Database
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -124,6 +130,7 @@ class TechLeader {
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
