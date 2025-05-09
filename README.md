@@ -58,7 +58,7 @@ class TechLeader {
         <img src="https://github-readme-stats.vercel.app/api?username=atm1504&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=atm1504&theme=tokyonight" alt="GitHub Streak" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atm1504&theme=tokyonight" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
