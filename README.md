@@ -1,7 +1,7 @@
 # <div align="center">🚀 Amartya Mondal</div>
 
 <div align="center">
-  <a href="https://atm1504-dev.web.app"><img src="https://img.shields.io/badge/Portfolio-atm1504-dev.web.app-4CAF50?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://atm1504-dev.web.app"><img src="https://img.shields.io/badge/Portfolio-atm1504--dev.web.app-4CAF50?style=for-the-badge" alt="Portfolio"/></a>
   <a href="mailto:atm1504.in@gmail.com"><img src="https://img.shields.io/badge/Email-atm1504.in@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=atm1504&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
