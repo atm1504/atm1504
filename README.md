@@ -1,7 +1,7 @@
 # <div align="center">🚀 Amartya Mondal</div>
 
 <div align="center">
-  <a href="https://atm1504-dev.web.app"><img src="https://img.shields.io/badge/Portfolio-atm1504--dev.web.app-4CAF50?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://atm1504-dev.web.app"><img src="https://img.shields.io/badge/Portfolio-atm1504_dev-4CAF50?style=for-the-badge" alt="Portfolio"/></a>
   <a href="mailto:atm1504.in@gmail.com"><img src="https://img.shields.io/badge/Email-atm1504.in@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=atm1504&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
@@ -58,12 +58,12 @@ class TechLeader {
         <img src="https://github-readme-stats.vercel.app/api?username=atm1504&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=atm1504&theme=tokyonight" alt="GitHub Streak" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atm1504&theme=tokyonight" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=atm1504&theme=tokyo-night" alt="Activity Graph" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atm1504&theme=tokyonight" alt="Activity Graph" />
       </td>
     </tr>
     <tr>
@@ -142,7 +142,7 @@ class TechLeader {
 ## 🎯 GitHub Contribution Calendar
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atm1504&theme=github-compact" alt="GitHub Contribution Calendar"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atm1504&theme=tokyonight" alt="GitHub Contribution Calendar"/>
 </div>
 
 ## 🤝 Connect With Me
